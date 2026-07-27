@@ -1,2 +1,0 @@
-[console_scripts]
-microwall = microwall.cli:main

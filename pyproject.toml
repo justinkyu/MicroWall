@@ -31,4 +31,5 @@ classifiers = [
 microwall = "microwall.cli:main"
 
 [tool.setuptools]
+license-files = []
 packages = ["microwall"]
